@@ -1,2 +1,2 @@
-application:
-    name:dev-8000
+config:
+  info:dev-8000
